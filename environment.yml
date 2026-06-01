@@ -1,0 +1,15 @@
+name: sad2026
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - missingno
+  - pandas
+  - scikit-learn
+  - numpy
+  - skimpy
+  - sklearn
+  - scipy
+  - seaborn
+  
+  
