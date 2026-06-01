@@ -9,7 +9,7 @@ dependencies:
   - numpy
   - skimpy
   - sklearn
-  - scipy.stats
+  - scipy
   - seaborn
   
   

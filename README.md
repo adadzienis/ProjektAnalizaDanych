@@ -26,6 +26,7 @@ Następnie w IDE należy wybrać odpowiednie środowisko wirtualne aby uruchamia
 
 ## TODO:
  1. Wczytać dane dotyczące siłowni i wyczyścić je (inputować, sprawdzic outlinery, itp)
+ 2. Wykonać konwersję z ipynb do HTML (nbconvert)
  
 
 
