@@ -11,5 +11,6 @@ dependencies:
   - sklearn
   - scipy
   - seaborn
+  - nbconvert
   
   
