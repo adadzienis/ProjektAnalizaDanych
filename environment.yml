@@ -12,5 +12,6 @@ dependencies:
   - scipy
   - seaborn
   - nbconvert
+  - jupyter
   
   
