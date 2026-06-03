@@ -1,7 +1,6 @@
 # ProjektAnalizaDanych
 
 EDA 2026 - Repozytorium do projektu do analizy danych.
-:) :)
 
 ## Skład zespołu
  * Adriana Dzienis
@@ -11,9 +10,8 @@ EDA 2026 - Repozytorium do projektu do analizy danych.
 
 Celem projektu jest posprzątanie danych (poprzez usuwanie, inputowanie) a następnie ich wizualizacja. (Zrozumiałem, że bez konieczności tworzenia modelu)
 
-Note (do usuniecia w finalnej wersji projektu):
- - Pakiet do konwersji notebooków jupyter'owych na HTML, PDF, itp... : "nbconvert" (https://nbconvert.readthedocs.io/en/latest/)
- - Pakiet do inputowania i rysowania informacji o brakach: "missingno" (https://github.com/ResidentMario/missingno)
+## Raport HTML
+[HTML](./output/projekt.html)
 
 
 ## Instalacja
@@ -25,8 +23,8 @@ Note (do usuniecia w finalnej wersji projektu):
 Następnie w IDE należy wybrać odpowiednie środowisko wirtualne aby uruchamiać w nim plik `./Projekt.py`
 
 ## TODO:
- 1. Wczytać dane dotyczące siłowni i wyczyścić je (inputować, sprawdzic outlinery, itp)
- 2. Wykonać konwersję z ipynb do HTML (nbconvert)
+ 1. Wczytać dane dotyczące siłowni i wyczyścić je (inputować, sprawdzic outlinery, itp) - DONE
+ 2. Wykonać konwersję z ipynb do HTML (nbconvert) - DONE
  
 
 
